@@ -438,7 +438,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<article class=\"art-home\">\n  <div class=\"container\">\n    <div class=\"card  {{shadow}}\">\n      <div class=\"card-header \"><a>Välkommen till Havs och Vattenmyndighetens websida för yrkesfiskare</a></div>\n      <div class=\"card-body p-3 mb-4 bg-white rounded\"> \n        <h2>E-journalen</h2>\n        <p>Du som fiskare behöver vid varje fiske-tillfälle registrera fartygets samtliga aktiviteter under rutten i vår digitala journal.</p>\n        <figure class=\"figur-art\">\n          <img class=\"art-image rounded mx-auto d-block\" src=\"/src/img/pexels-photo-722995.jpeg\" />\n        </figure>\n      </div>\n      \n      <div class=\"card-footer\">\n        Behöver du hjälp?\n      </div>\n    </div>\n  </div>\n</article>\n"
+module.exports = "<article class=\"art-home\">\n  <div class=\"container\">\n    <div class=\"card  {{shadow}}\">\n      <div class=\"card-header \"><a>Välkommen till Havs och Vattenmyndighetens websida för yrkesfiskare</a></div>\n      <div class=\"card-body p-3 mb-4 bg-white rounded\"> \n        <h2>E-journalen</h2>\n        <p>Du som fiskare behöver vid varje fiske-tillfälle registrera fartygets samtliga aktiviteter under rutten i vår digitala journal.</p>\n        <figure class=\"figur-art\">\n          <img class=\"art-image rounded mx-auto d-block\" src=\"https://images.pexels.com/photos/722995/pexels-photo-722995.jpeg?cs=srgb&dl=beach-blue-boat-722995.jpg&fm=jpnpm\" />\n        </figure>\n      </div>\n      \n      <div class=\"card-footer\">\n        Behöver du hjälp?\n      </div>\n    </div>\n  </div>\n</article>\n"
 
 /***/ }),
 
